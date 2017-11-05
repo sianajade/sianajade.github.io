@@ -12,7 +12,7 @@
 	<atom:link href="/tag/art-blog/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Sun, 05 Nov 2017 16:44:10 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Nov 2017 18:54:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -27,11 +27,10 @@
 </image> 
 	<item>
 		<title>Art 101</title>
-		<link>/art-101/</link>
-		<comments>/art-101/#comments</comments>
+		<link>/2017/03/art-101/</link>
 		<pubDate>Fri, 17 Mar 2017 20:05:07 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[General]]></category>
 		<category><![CDATA[art]]></category>
 		<category><![CDATA[art 101]]></category>
 		<category><![CDATA[art blog]]></category>
@@ -42,9 +41,7 @@
 		<category><![CDATA[velvetnavy]]></category>
 
 		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=329</guid>
-		<description><![CDATA[My absolute favourite thing to do is most likely art so here i will be talking about some tips, art in school, experiences, favourite art types and pieces and much more. I hope you enjoy! Art styles: So there are MANY different types and styles of art like abstract, graphic, realism, cubism, pop art an loads &#8230; <p class="link-more"><a href="/art-101/" class="more-link">Continue reading<span class="screen-reader-text"> "Art 101"</span></a></p>]]></description>
-		<wfw:commentRss>/art-101/feed/</wfw:commentRss>
-		<slash:comments>2</slash:comments>
+		<description><![CDATA[My absolute favourite thing to do is most likely art so here i will be talking about some tips, art in school, experiences, favourite art types and pieces and much more. I hope you enjoy! Art styles: So there are MANY different types and styles of art like abstract, graphic, realism, cubism, pop art an loads &#8230; <p class="link-more"><a href="/2017/03/art-101/" class="more-link">Continue reading<span class="screen-reader-text"> "Art 101"</span></a></p>]]></description>
 		</item>
 	</channel>
 </rss>

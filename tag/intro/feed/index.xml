@@ -12,7 +12,7 @@
 	<atom:link href="/tag/intro/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Sun, 05 Nov 2017 16:44:10 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Nov 2017 18:54:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -27,11 +27,10 @@
 </image> 
 	<item>
 		<title>introduction</title>
-		<link>/introduction/</link>
-		<comments>/introduction/#respond</comments>
+		<link>/2016/03/introduction/</link>
 		<pubDate>Fri, 04 Mar 2016 18:19:43 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[General]]></category>
 		<category><![CDATA[aesthetic]]></category>
 		<category><![CDATA[art]]></category>
 		<category><![CDATA[blog]]></category>
@@ -47,9 +46,7 @@
 		<category><![CDATA[siana goodwin]]></category>
 
 		<guid isPermaLink="false">https://velvetnavy.wordpress.com/?p=2</guid>
-		<description><![CDATA[Hello, I&#8217;m Siana (See &#8211; Anna) and welcome to my blog velvetnavy! Here you can find all sorts of different blog posts on topics such as: music, fashion, makeup and beauty, tips and advice, recommendations, latest buys, teen stuff, photography and much more. So grab a hot drink and a blanket and get comfy, I &#8230; <p class="link-more"><a href="/introduction/" class="more-link">Continue reading<span class="screen-reader-text"> "introduction"</span></a></p>]]></description>
-		<wfw:commentRss>/introduction/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
+		<description><![CDATA[Hello, I&#8217;m Siana (See &#8211; Anna) and welcome to my blog velvetnavy! Here you can find all sorts of different blog posts on topics such as: music, fashion, makeup and beauty, tips and advice, recommendations, latest buys, teen stuff, photography and much more. So grab a hot drink and a blanket and get comfy, I &#8230; <p class="link-more"><a href="/2016/03/introduction/" class="more-link">Continue reading<span class="screen-reader-text"> "introduction"</span></a></p>]]></description>
 		</item>
 	</channel>
 </rss>

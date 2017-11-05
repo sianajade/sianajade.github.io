@@ -12,7 +12,7 @@
 	<atom:link href="/tag/fun/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Sun, 05 Nov 2017 16:44:10 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Nov 2017 18:54:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -27,11 +27,10 @@
 </image> 
 	<item>
 		<title>The perfect summer</title>
-		<link>/the-perfect-summer/</link>
-		<comments>/the-perfect-summer/#respond</comments>
+		<link>/2016/08/the-perfect-summer/</link>
 		<pubDate>Thu, 18 Aug 2016 17:14:25 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[General]]></category>
 		<category><![CDATA[activities]]></category>
 		<category><![CDATA[aesthetic]]></category>
 		<category><![CDATA[art]]></category>
@@ -48,9 +47,7 @@
 		<category><![CDATA[summer]]></category>
 
 		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=149</guid>
-		<description><![CDATA[don&#8217;t stress yourself over having a perfect summer but do make sure you enjoy it! take as many opportunities as you can to have fun time and make good memories. here are a few things i did in the summer holidays: first of all i went to turkey with my family which was an incredible &#8230; <p class="link-more"><a href="/the-perfect-summer/" class="more-link">Continue reading<span class="screen-reader-text"> "The perfect summer"</span></a></p>]]></description>
-		<wfw:commentRss>/the-perfect-summer/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
+		<description><![CDATA[don&#8217;t stress yourself over having a perfect summer but do make sure you enjoy it! take as many opportunities as you can to have fun time and make good memories. here are a few things i did in the summer holidays: first of all i went to turkey with my family which was an incredible &#8230; <p class="link-more"><a href="/2016/08/the-perfect-summer/" class="more-link">Continue reading<span class="screen-reader-text"> "The perfect summer"</span></a></p>]]></description>
 		</item>
 	</channel>
 </rss>

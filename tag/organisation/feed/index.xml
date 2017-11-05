@@ -12,7 +12,7 @@
 	<atom:link href="/tag/organisation/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Sun, 05 Nov 2017 16:44:10 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Nov 2017 18:54:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -27,11 +27,10 @@
 </image> 
 	<item>
 		<title>tips to stay organised</title>
-		<link>/tips-to-stay-organised/</link>
-		<comments>/tips-to-stay-organised/#respond</comments>
+		<link>/2016/06/tips-to-stay-organised/</link>
 		<pubDate>Tue, 21 Jun 2016 18:15:40 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[General]]></category>
 		<category><![CDATA[aesthetic]]></category>
 		<category><![CDATA[art]]></category>
 		<category><![CDATA[blog]]></category>
@@ -47,9 +46,7 @@
 		<category><![CDATA[tips]]></category>
 
 		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=133</guid>
-		<description><![CDATA[Tips to stay organised: &#160; Keep a personal diary, one thing that makes me stressed out is holding in all my feelings especially after a bad day, it makes me feel very unorganised and unhappy. To help this factor, i keep a diary. You don’t have to write in there all the time (I don’t) &#8230; <p class="link-more"><a href="/tips-to-stay-organised/" class="more-link">Continue reading<span class="screen-reader-text"> "tips to stay organised"</span></a></p>]]></description>
-		<wfw:commentRss>/tips-to-stay-organised/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
+		<description><![CDATA[Tips to stay organised: &#160; Keep a personal diary, one thing that makes me stressed out is holding in all my feelings especially after a bad day, it makes me feel very unorganised and unhappy. To help this factor, i keep a diary. You don’t have to write in there all the time (I don’t) &#8230; <p class="link-more"><a href="/2016/06/tips-to-stay-organised/" class="more-link">Continue reading<span class="screen-reader-text"> "tips to stay organised"</span></a></p>]]></description>
 		</item>
 	</channel>
 </rss>

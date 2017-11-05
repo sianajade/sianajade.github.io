@@ -12,7 +12,7 @@
 	<atom:link href="/tag/aqa/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Sun, 05 Nov 2017 16:44:10 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Nov 2017 18:54:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -27,11 +27,10 @@
 </image> 
 	<item>
 		<title>GCSE formulas and equations</title>
-		<link>/gcse-formulas-and-equations/</link>
-		<comments>/gcse-formulas-and-equations/#respond</comments>
+		<link>/2017/02/gcse-formulas-and-equations/</link>
 		<pubDate>Mon, 20 Feb 2017 19:03:38 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[General]]></category>
 		<category><![CDATA[AQA]]></category>
 		<category><![CDATA[equations]]></category>
 		<category><![CDATA[formulas]]></category>
@@ -42,9 +41,7 @@
 		<category><![CDATA[velvetnavy]]></category>
 
 		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=315</guid>
-		<description><![CDATA[Since the government has decided to change the exam board, resulting in us students being forced to memorise every equation and formula for science and maths, I decided to give my younger readers and myself a head-start by laying out all (i think) of the equations and formulas needed for you in GCSEs. physics: W &#8230; <p class="link-more"><a href="/gcse-formulas-and-equations/" class="more-link">Continue reading<span class="screen-reader-text"> "GCSE formulas and equations"</span></a></p>]]></description>
-		<wfw:commentRss>/gcse-formulas-and-equations/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
+		<description><![CDATA[Since the government has decided to change the exam board, resulting in us students being forced to memorise every equation and formula for science and maths, I decided to give my younger readers and myself a head-start by laying out all (i think) of the equations and formulas needed for you in GCSEs. physics: W &#8230; <p class="link-more"><a href="/2017/02/gcse-formulas-and-equations/" class="more-link">Continue reading<span class="screen-reader-text"> "GCSE formulas and equations"</span></a></p>]]></description>
 		</item>
 	</channel>
 </rss>

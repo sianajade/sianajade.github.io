@@ -12,7 +12,7 @@
 	<atom:link href="/tag/short-story/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Sun, 05 Nov 2017 16:44:10 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Nov 2017 18:54:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -27,11 +27,10 @@
 </image> 
 	<item>
 		<title>Scarlett and Elora short stories</title>
-		<link>/scarlett-and-elora-short-stories/</link>
-		<comments>/scarlett-and-elora-short-stories/#respond</comments>
+		<link>/2016/04/scarlett-and-elora-short-stories/</link>
 		<pubDate>Mon, 25 Apr 2016 20:14:41 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[General]]></category>
 		<category><![CDATA[aesthetic]]></category>
 		<category><![CDATA[art]]></category>
 		<category><![CDATA[blog]]></category>
@@ -47,9 +46,7 @@
 		<category><![CDATA[siana goodwin]]></category>
 
 		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=117</guid>
-		<description><![CDATA[Scarlett I woke up to another frosty autumn morning, clambered out of bed and left my covers in a heap then swung open my curtains and stared outside across the col-de-sac. The sun was just peeping over the tops of the cosy houses, glowing brightly on the frosty trees making them sparkle. The cars had &#8230; <p class="link-more"><a href="/scarlett-and-elora-short-stories/" class="more-link">Continue reading<span class="screen-reader-text"> "Scarlett and Elora short stories"</span></a></p>]]></description>
-		<wfw:commentRss>/scarlett-and-elora-short-stories/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
+		<description><![CDATA[Scarlett I woke up to another frosty autumn morning, clambered out of bed and left my covers in a heap then swung open my curtains and stared outside across the col-de-sac. The sun was just peeping over the tops of the cosy houses, glowing brightly on the frosty trees making them sparkle. The cars had &#8230; <p class="link-more"><a href="/2016/04/scarlett-and-elora-short-stories/" class="more-link">Continue reading<span class="screen-reader-text"> "Scarlett and Elora short stories"</span></a></p>]]></description>
 		</item>
 	</channel>
 </rss>

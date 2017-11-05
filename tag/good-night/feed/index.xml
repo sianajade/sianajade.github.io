@@ -12,7 +12,7 @@
 	<atom:link href="/tag/good-night/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Sun, 05 Nov 2017 16:44:10 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Nov 2017 18:54:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -27,11 +27,10 @@
 </image> 
 	<item>
 		<title>A good night&#8217;s sleep</title>
-		<link>/a-good-nights-sleep/</link>
-		<comments>/a-good-nights-sleep/#respond</comments>
+		<link>/2016/03/a-good-nights-sleep/</link>
 		<pubDate>Sat, 05 Mar 2016 13:39:59 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[General]]></category>
 		<category><![CDATA[aesthetic]]></category>
 		<category><![CDATA[art]]></category>
 		<category><![CDATA[blog]]></category>
@@ -48,9 +47,7 @@
 		<category><![CDATA[slumber]]></category>
 
 		<guid isPermaLink="false">https://velvetnavy.wordpress.com/2016/03/05/a-good-nights-sleep/</guid>
-		<description><![CDATA[I&#8217;m sure we all love waking up from a good night&#8217;s sleep feeling refreshed and ready for the day. Here are a few tips in order to get that fabulous feeling: •put away the technology &#8211; though it can be tempting to go on social media sites and scroll through pictures of on fleek eyebrows &#8230; <p class="link-more"><a href="/a-good-nights-sleep/" class="more-link">Continue reading<span class="screen-reader-text"> "A good night&#8217;s sleep"</span></a></p>]]></description>
-		<wfw:commentRss>/a-good-nights-sleep/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
+		<description><![CDATA[I&#8217;m sure we all love waking up from a good night&#8217;s sleep feeling refreshed and ready for the day. Here are a few tips in order to get that fabulous feeling: •put away the technology &#8211; though it can be tempting to go on social media sites and scroll through pictures of on fleek eyebrows &#8230; <p class="link-more"><a href="/2016/03/a-good-nights-sleep/" class="more-link">Continue reading<span class="screen-reader-text"> "A good night&#8217;s sleep"</span></a></p>]]></description>
 		</item>
 	</channel>
 </rss>

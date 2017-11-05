@@ -12,7 +12,7 @@
 	<atom:link href="/tag/girls/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Sun, 05 Nov 2017 16:44:10 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Nov 2017 18:54:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -27,11 +27,10 @@
 </image> 
 	<item>
 		<title>My favourites recently</title>
-		<link>/my-favourites-recently/</link>
-		<comments>/my-favourites-recently/#respond</comments>
+		<link>/2017/04/my-favourites-recently/</link>
 		<pubDate>Sun, 23 Apr 2017 15:56:22 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[General]]></category>
 		<category><![CDATA[blog]]></category>
 		<category><![CDATA[favourites]]></category>
 		<category><![CDATA[girls]]></category>
@@ -40,9 +39,7 @@
 		<category><![CDATA[velvetnavy]]></category>
 
 		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=392</guid>
-		<description><![CDATA[Hello, this time i have decided to do my recent favourites, be sure to look around velvetnavy after reading this and take a look at my snapshots and social media sites which can be found on my about page. Anyway, enjoy: &#160; Face masks It’s been so nice recently to just lay back and use &#8230; <p class="link-more"><a href="/my-favourites-recently/" class="more-link">Continue reading<span class="screen-reader-text"> "My favourites recently"</span></a></p>]]></description>
-		<wfw:commentRss>/my-favourites-recently/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
+		<description><![CDATA[Hello, this time i have decided to do my recent favourites, be sure to look around velvetnavy after reading this and take a look at my snapshots and social media sites which can be found on my about page. Anyway, enjoy: &#160; Face masks It’s been so nice recently to just lay back and use &#8230; <p class="link-more"><a href="/2017/04/my-favourites-recently/" class="more-link">Continue reading<span class="screen-reader-text"> "My favourites recently"</span></a></p>]]></description>
 		</item>
 	</channel>
 </rss>

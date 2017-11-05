@@ -12,7 +12,7 @@
 	<atom:link href="/tag/snacks/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Sun, 05 Nov 2017 16:44:10 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Nov 2017 18:54:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -27,11 +27,10 @@
 </image> 
 	<item>
 		<title>Siana&#8217;s food book</title>
-		<link>/sianas-food-book/</link>
-		<comments>/sianas-food-book/#respond</comments>
+		<link>/2017/09/sianas-food-book/</link>
 		<pubDate>Mon, 04 Sep 2017 12:19:40 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[General]]></category>
 		<category><![CDATA[blog]]></category>
 		<category><![CDATA[food]]></category>
 		<category><![CDATA[food blog]]></category>
@@ -42,9 +41,7 @@
 		<category><![CDATA[velvetnavy]]></category>
 
 		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=398</guid>
-		<description><![CDATA[&#160; Hello! I&#8217;m sorry for the lack of a post for a while but as you can expect from a year 10 (now 11), I was nose deep in revision for mocks and songs to learn for concerts etc. and soon after, had a relaxing holiday break. Goodness knows how i&#8217;ll get along next year.. &#8230; <p class="link-more"><a href="/sianas-food-book/" class="more-link">Continue reading<span class="screen-reader-text"> "Siana&#8217;s food book"</span></a></p>]]></description>
-		<wfw:commentRss>/sianas-food-book/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
+		<description><![CDATA[&#160; Hello! I&#8217;m sorry for the lack of a post for a while but as you can expect from a year 10 (now 11), I was nose deep in revision for mocks and songs to learn for concerts etc. and soon after, had a relaxing holiday break. Goodness knows how i&#8217;ll get along next year.. &#8230; <p class="link-more"><a href="/2017/09/sianas-food-book/" class="more-link">Continue reading<span class="screen-reader-text"> "Siana&#8217;s food book"</span></a></p>]]></description>
 		</item>
 	</channel>
 </rss>
