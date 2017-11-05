@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>equations &#8211; Velvet Navy</title>
+	<atom:link href="/tag/equations/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Relax in a world of velvet navy.</description>
+	<lastBuildDate>Sun, 05 Nov 2017 16:44:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-photo-1460750860062-82a52139a0d6-1-1-32x32.jpeg</url>
+	<title>equations &#8211; Velvet Navy</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>GCSE formulas and equations</title>
+		<link>/gcse-formulas-and-equations/</link>
+		<comments>/gcse-formulas-and-equations/#respond</comments>
+		<pubDate>Mon, 20 Feb 2017 19:03:38 +0000</pubDate>
+		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[AQA]]></category>
+		<category><![CDATA[equations]]></category>
+		<category><![CDATA[formulas]]></category>
+		<category><![CDATA[GCSE]]></category>
+		<category><![CDATA[maths]]></category>
+		<category><![CDATA[physics]]></category>
+		<category><![CDATA[siana goodwin]]></category>
+		<category><![CDATA[velvetnavy]]></category>
+
+		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=315</guid>
+		<description><![CDATA[Since the government has decided to change the exam board, resulting in us students being forced to memorise every equation and formula for science and maths, I decided to give my younger readers and myself a head-start by laying out all (i think) of the equations and formulas needed for you in GCSEs. physics: W &#8230; <p class="link-more"><a href="/gcse-formulas-and-equations/" class="more-link">Continue reading<span class="screen-reader-text"> "GCSE formulas and equations"</span></a></p>]]></description>
+		<wfw:commentRss>/gcse-formulas-and-equations/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>special effects &#8211; Velvet Navy</title>
+	<atom:link href="/tag/special-effects/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Relax in a world of velvet navy.</description>
+	<lastBuildDate>Sun, 05 Nov 2017 16:44:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-photo-1460750860062-82a52139a0d6-1-1-32x32.jpeg</url>
+	<title>special effects &#8211; Velvet Navy</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Makeup</title>
+		<link>/makeup/</link>
+		<comments>/makeup/#respond</comments>
+		<pubDate>Sat, 01 Apr 2017 17:18:00 +0000</pubDate>
+		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[creative makeup]]></category>
+		<category><![CDATA[feminine]]></category>
+		<category><![CDATA[Girly]]></category>
+		<category><![CDATA[makeup]]></category>
+		<category><![CDATA[pretty]]></category>
+		<category><![CDATA[siana goodwin]]></category>
+		<category><![CDATA[special effects]]></category>
+		<category><![CDATA[velvetnavy]]></category>
+
+		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=369</guid>
+		<description><![CDATA[One of my many interests is makeup, i have always loved it from a young age when i would watch my mum do her makeup and try to mimic her, putting on her lipstick or some of my own barbie makeup. However, &#8216;normal&#8217; makeup isn&#8217;t the only thing i have been interested in, fairly recently &#8230; <p class="link-more"><a href="/makeup/" class="more-link">Continue reading<span class="screen-reader-text"> "Makeup"</span></a></p>]]></description>
+		<wfw:commentRss>/makeup/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

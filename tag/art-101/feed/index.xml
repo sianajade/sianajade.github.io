@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>art 101 &#8211; Velvet Navy</title>
+	<atom:link href="/tag/art-101/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Relax in a world of velvet navy.</description>
+	<lastBuildDate>Sun, 05 Nov 2017 16:44:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-photo-1460750860062-82a52139a0d6-1-1-32x32.jpeg</url>
+	<title>art 101 &#8211; Velvet Navy</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Art 101</title>
+		<link>/art-101/</link>
+		<comments>/art-101/#comments</comments>
+		<pubDate>Fri, 17 Mar 2017 20:05:07 +0000</pubDate>
+		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[art 101]]></category>
+		<category><![CDATA[art blog]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[GCSE art]]></category>
+		<category><![CDATA[Girly]]></category>
+		<category><![CDATA[siana goodwin]]></category>
+		<category><![CDATA[velvetnavy]]></category>
+
+		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=329</guid>
+		<description><![CDATA[My absolute favourite thing to do is most likely art so here i will be talking about some tips, art in school, experiences, favourite art types and pieces and much more. I hope you enjoy! Art styles: So there are MANY different types and styles of art like abstract, graphic, realism, cubism, pop art an loads &#8230; <p class="link-more"><a href="/art-101/" class="more-link">Continue reading<span class="screen-reader-text"> "Art 101"</span></a></p>]]></description>
+		<wfw:commentRss>/art-101/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

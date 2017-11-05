@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Art 101</title>
+	<atom:link href="/art-101/feed/" rel="self" type="application/rss+xml" />
+	<link>/art-101/</link>
+	<description>Relax in a world of velvet navy.</description>
+	<lastBuildDate>Sun, 05 Nov 2017 14:20:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.3</generator>
+	<item>
+		<title>By: Siana Jade</title>
+		<link>/art-101/#comment-3</link>
+		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
+		<pubDate>Sun, 26 Mar 2017 16:54:00 +0000</pubDate>
+		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=329#comment-3</guid>
+		<description><![CDATA[Yeah! I will be sure to do that next :)]]></description>
+		<content:encoded><![CDATA[<p>Yeah! I will be sure to do that next 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jamie Goodwin</title>
+		<link>/art-101/#comment-2</link>
+		<dc:creator><![CDATA[Jamie Goodwin]]></dc:creator>
+		<pubDate>Fri, 24 Mar 2017 10:50:00 +0000</pubDate>
+		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=329#comment-2</guid>
+		<description><![CDATA[Can you please post about your special effects makeup next? I&#039;d love to share that with friends :-)]]></description>
+		<content:encoded><![CDATA[<p>Can you please post about your special effects makeup next? I&#8217;d love to share that with friends 🙂</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
