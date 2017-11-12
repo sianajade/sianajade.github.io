@@ -12,7 +12,7 @@
 	<atom:link href="/tag/decorations/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Mon, 06 Nov 2017 17:43:02 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Nov 2017 18:06:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -30,7 +30,9 @@
 		<link>/2016/09/autumn-room/</link>
 		<pubDate>Tue, 20 Sep 2016 16:53:22 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[General]]></category>
+				<category><![CDATA[creative]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[lifestyle]]></category>
 		<category><![CDATA[aesthetic]]></category>
 		<category><![CDATA[art]]></category>
 		<category><![CDATA[autumn]]></category>
@@ -48,7 +50,7 @@
 		<category><![CDATA[room]]></category>
 
 		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=184</guid>
-		<description><![CDATA[Once again I am back with another blog post although this one is at the start of a new season. Autumn! Which so happens to be my favourite season. The chilly weather, wrapping up warm, pretty autumnal pictures and colours, pumpkin spice, hot drinks and yummy candle smells.  Anyway, the point of this blog post &#8230; <p class="link-more"><a href="/2016/09/autumn-room/" class="more-link">Continue reading<span class="screen-reader-text"> "autumn room!"</span></a></p>]]></description>
+		<description><![CDATA[Once again I am back with another blog post although this one is at the start of a new season. Autumn! Which so happens to be my favourite season. The chilly weather, wrapping up warm, pretty autumnal pictures and colours, pumpkin spice, hot drinks and yummy candle smells.  Anyway, the point of this blog post&#8230; <a href="/2016/09/autumn-room/" class="more-link">Continue reading <span class="screen-reader-text">autumn room!</span></a>]]></description>
 		</item>
 	</channel>
 </rss>

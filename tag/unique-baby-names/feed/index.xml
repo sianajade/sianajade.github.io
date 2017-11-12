@@ -12,7 +12,7 @@
 	<atom:link href="/tag/unique-baby-names/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Mon, 06 Nov 2017 17:43:02 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Nov 2017 18:06:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -30,7 +30,9 @@
 		<link>/2016/04/my-baby-name-book-2/</link>
 		<pubDate>Wed, 13 Apr 2016 19:34:38 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[General]]></category>
+				<category><![CDATA[creative]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[lifestyle]]></category>
 		<category><![CDATA[aesthetic]]></category>
 		<category><![CDATA[art]]></category>
 		<category><![CDATA[blog]]></category>
@@ -45,7 +47,7 @@
 		<category><![CDATA[unique baby names]]></category>
 
 		<guid isPermaLink="false">https://velvetnavy.wordpress.com/?p=94</guid>
-		<description><![CDATA[Though it may seem strange, considering I am far from motherhood and i am young, but I take a strong interest in names. This could be because of how unique my name is that I am so fond of unusual names but here are a few of my favourites: (note: my taste changes as i &#8230; <p class="link-more"><a href="/2016/04/my-baby-name-book-2/" class="more-link">Continue reading<span class="screen-reader-text"> "My baby name book"</span></a></p>]]></description>
+		<description><![CDATA[Though it may seem strange, considering I am far from motherhood and i am young, but I take a strong interest in names. This could be because of how unique my name is that I am so fond of unusual names but here are a few of my favourites: (note: my taste changes as i&#8230; <a href="/2016/04/my-baby-name-book-2/" class="more-link">Continue reading <span class="screen-reader-text">My baby name book</span></a>]]></description>
 		</item>
 	</channel>
 </rss>

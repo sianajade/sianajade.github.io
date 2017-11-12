@@ -12,7 +12,7 @@
 	<atom:link href="/tag/art-101/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Mon, 06 Nov 2017 17:43:02 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Nov 2017 18:06:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -30,7 +30,9 @@
 		<link>/2017/03/art-101/</link>
 		<pubDate>Fri, 17 Mar 2017 20:05:07 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[General]]></category>
+				<category><![CDATA[creative]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[school]]></category>
 		<category><![CDATA[art]]></category>
 		<category><![CDATA[art 101]]></category>
 		<category><![CDATA[art blog]]></category>
@@ -41,7 +43,7 @@
 		<category><![CDATA[velvetnavy]]></category>
 
 		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=329</guid>
-		<description><![CDATA[My absolute favourite thing to do is most likely art so here i will be talking about some tips, art in school, experiences, favourite art types and pieces and much more. I hope you enjoy! Art styles: So there are MANY different types and styles of art like abstract, graphic, realism, cubism, pop art an loads &#8230; <p class="link-more"><a href="/2017/03/art-101/" class="more-link">Continue reading<span class="screen-reader-text"> "Art 101"</span></a></p>]]></description>
+		<description><![CDATA[My absolute favourite thing to do is most likely art so here i will be talking about some tips, art in school, experiences, favourite art types and pieces and much more. I hope you enjoy! Art styles: So there are MANY different types and styles of art like abstract, graphic, realism, cubism, pop art an loads&#8230; <a href="/2017/03/art-101/" class="more-link">Continue reading <span class="screen-reader-text">Art 101</span></a>]]></description>
 		</item>
 	</channel>
 </rss>

@@ -12,7 +12,7 @@
 	<atom:link href="/tag/recommend/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Mon, 06 Nov 2017 17:43:02 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Nov 2017 18:06:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -31,6 +31,7 @@
 		<pubDate>Sat, 31 Dec 2016 18:55:53 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
 				<category><![CDATA[General]]></category>
+		<category><![CDATA[lifestyle]]></category>
 		<category><![CDATA[aesthetic]]></category>
 		<category><![CDATA[art]]></category>
 		<category><![CDATA[blog]]></category>
@@ -47,7 +48,7 @@
 		<category><![CDATA[recommend]]></category>
 
 		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=202</guid>
-		<description><![CDATA[Hello again to anyone who kindly takes the time to read my blog, i am back for another post on the things i got for christmas. before i get into the presents i would just like to put out a disclaimer to say that i am in no way bragging or intending to brag i &#8230; <p class="link-more"><a href="/2016/12/what-i-got-for-christmas-2016/" class="more-link">Continue reading<span class="screen-reader-text"> "What I got for christmas 2016"</span></a></p>]]></description>
+		<description><![CDATA[Hello again to anyone who kindly takes the time to read my blog, i am back for another post on the things i got for christmas. before i get into the presents i would just like to put out a disclaimer to say that i am in no way bragging or intending to brag i&#8230; <a href="/2016/12/what-i-got-for-christmas-2016/" class="more-link">Continue reading <span class="screen-reader-text">What I got for christmas 2016</span></a>]]></description>
 		</item>
 	</channel>
 </rss>

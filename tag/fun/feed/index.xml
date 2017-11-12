@@ -12,7 +12,7 @@
 	<atom:link href="/tag/fun/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Mon, 06 Nov 2017 17:43:02 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Nov 2017 18:06:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -31,6 +31,7 @@
 		<pubDate>Thu, 18 Aug 2016 17:14:25 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
 				<category><![CDATA[General]]></category>
+		<category><![CDATA[lifestyle]]></category>
 		<category><![CDATA[activities]]></category>
 		<category><![CDATA[aesthetic]]></category>
 		<category><![CDATA[art]]></category>
@@ -47,7 +48,7 @@
 		<category><![CDATA[summer]]></category>
 
 		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=149</guid>
-		<description><![CDATA[don&#8217;t stress yourself over having a perfect summer but do make sure you enjoy it! take as many opportunities as you can to have fun time and make good memories. here are a few things i did in the summer holidays: first of all i went to turkey with my family which was an incredible &#8230; <p class="link-more"><a href="/2016/08/the-perfect-summer/" class="more-link">Continue reading<span class="screen-reader-text"> "The perfect summer"</span></a></p>]]></description>
+		<description><![CDATA[don&#8217;t stress yourself over having a perfect summer but do make sure you enjoy it! take as many opportunities as you can to have fun time and make good memories. here are a few things i did in the summer holidays: first of all i went to turkey with my family which was an incredible&#8230; <a href="/2016/08/the-perfect-summer/" class="more-link">Continue reading <span class="screen-reader-text">The perfect summer</span></a>]]></description>
 		</item>
 	</channel>
 </rss>
