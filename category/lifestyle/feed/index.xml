@@ -12,7 +12,7 @@
 	<atom:link href="/category/lifestyle/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Sun, 12 Nov 2017 18:06:06 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 19 Nov 2017 13:04:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,17 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>PMS Panel</title>
+		<link>/2017/11/pms-panel/</link>
+		<pubDate>Sun, 19 Nov 2017 13:04:34 +0000</pubDate>
+		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[lifestyle]]></category>
+
+		<guid isPermaLink="false">/?p=520</guid>
+		<description><![CDATA[Hello and welcome to my PMS Panel! Here I will be discussing the ins and outs of hormones, cramps, spots, coping methods, cravings, and tips and tricks. I hope you take something from this and that it helps or comforts you in some way. Emotions: We all know that emotions, mood swings, and irritable feelings&#8230; <a href="/2017/11/pms-panel/" class="more-link">Continue reading <span class="screen-reader-text">PMS Panel</span></a>]]></description>
+		</item>
+		<item>
 		<title>Mindfulness</title>
 		<link>/2017/11/mindfulness/</link>
 		<pubDate>Mon, 06 Nov 2017 17:43:02 +0000</pubDate>
@@ -214,31 +225,6 @@
 
 		<guid isPermaLink="false">https://velvetnavy.wordpress.com/?p=94</guid>
 		<description><![CDATA[Though it may seem strange, considering I am far from motherhood and i am young, but I take a strong interest in names. This could be because of how unique my name is that I am so fond of unusual names but here are a few of my favourites: (note: my taste changes as i&#8230; <a href="/2016/04/my-baby-name-book-2/" class="more-link">Continue reading <span class="screen-reader-text">My baby name book</span></a>]]></description>
-		</item>
-		<item>
-		<title>Cosy night in</title>
-		<link>/2016/03/cosy-night-in/</link>
-		<pubDate>Fri, 04 Mar 2016 21:18:33 +0000</pubDate>
-		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[General]]></category>
-		<category><![CDATA[lifestyle]]></category>
-		<category><![CDATA[aesthetic]]></category>
-		<category><![CDATA[art]]></category>
-		<category><![CDATA[blog]]></category>
-		<category><![CDATA[blogger]]></category>
-		<category><![CDATA[blogs]]></category>
-		<category><![CDATA[feminine]]></category>
-		<category><![CDATA[floral]]></category>
-		<category><![CDATA[girl]]></category>
-		<category><![CDATA[Girly]]></category>
-		<category><![CDATA[home]]></category>
-		<category><![CDATA[ice cream]]></category>
-		<category><![CDATA[night in]]></category>
-		<category><![CDATA[photography]]></category>
-		<category><![CDATA[pretty]]></category>
-
-		<guid isPermaLink="false">https://velvetnavy.wordpress.com/2016/03/04/cosy-night-in/</guid>
-		<description><![CDATA[As many of us do, I LOVE ice cream. A great thing to do once in a while with your friends, family or even by yourself is to get cosy with a blanket, flick on a film and share a tub of ice cream. I really love Ben and Jerry&#8217;s cookie dough flavour and if&#8230; <a href="/2016/03/cosy-night-in/" class="more-link">Continue reading <span class="screen-reader-text">Cosy night in</span></a>]]></description>
 		</item>
 	</channel>
 </rss>

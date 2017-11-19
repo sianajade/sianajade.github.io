@@ -12,7 +12,7 @@
 	<atom:link href="/author/siana/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Sun, 12 Nov 2017 18:06:06 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 19 Nov 2017 13:04:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,17 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>PMS Panel</title>
+		<link>/2017/11/pms-panel/</link>
+		<pubDate>Sun, 19 Nov 2017 13:04:34 +0000</pubDate>
+		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[lifestyle]]></category>
+
+		<guid isPermaLink="false">/?p=520</guid>
+		<description><![CDATA[Hello and welcome to my PMS Panel! Here I will be discussing the ins and outs of hormones, cramps, spots, coping methods, cravings, and tips and tricks. I hope you take something from this and that it helps or comforts you in some way. Emotions: We all know that emotions, mood swings, and irritable feelings&#8230; <a href="/2017/11/pms-panel/" class="more-link">Continue reading <span class="screen-reader-text">PMS Panel</span></a>]]></description>
+		</item>
+		<item>
 		<title>Brain Tour</title>
 		<link>/2017/11/brain-tour/</link>
 		<pubDate>Sun, 12 Nov 2017 18:00:10 +0000</pubDate>
@@ -162,29 +173,6 @@
 
 		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=315</guid>
 		<description><![CDATA[Since the government has decided to change the exam board, resulting in us students being forced to memorise every equation and formula for science and maths, I decided to give my younger readers and myself a head-start by laying out all (i think) of the equations and formulas needed for you in GCSEs. physics: W&#8230; <a href="/2017/02/gcse-formulas-and-equations/" class="more-link">Continue reading <span class="screen-reader-text">GCSE formulas and equations</span></a>]]></description>
-		</item>
-		<item>
-		<title>random tips, tricks and hacks</title>
-		<link>/2017/01/random-tips-tricks-and-hacks/</link>
-		<pubDate>Sat, 28 Jan 2017 09:22:33 +0000</pubDate>
-		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[General]]></category>
-		<category><![CDATA[lifestyle]]></category>
-		<category><![CDATA[school]]></category>
-		<category><![CDATA[aesthetic]]></category>
-		<category><![CDATA[art]]></category>
-		<category><![CDATA[blog]]></category>
-		<category><![CDATA[blogger]]></category>
-		<category><![CDATA[blogs]]></category>
-		<category><![CDATA[feminine]]></category>
-		<category><![CDATA[floral]]></category>
-		<category><![CDATA[girl]]></category>
-		<category><![CDATA[Girly]]></category>
-		<category><![CDATA[photography]]></category>
-		<category><![CDATA[pretty]]></category>
-
-		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=138</guid>
-		<description><![CDATA[Hello there, once again I am back with another blog post &#8211; shiny and new. My brother is a web designer and has very kindly made my blog much more professional for me so i hope you like the new look, not that it&#8217;s much different from the other. Anyway, on to the topic of this&#8230; <a href="/2017/01/random-tips-tricks-and-hacks/" class="more-link">Continue reading <span class="screen-reader-text">random tips, tricks and hacks</span></a>]]></description>
 		</item>
 	</channel>
 </rss>
