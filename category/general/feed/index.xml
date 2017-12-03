@@ -12,7 +12,7 @@
 	<atom:link href="/category/general/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Sun, 03 Dec 2017 13:47:46 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Dec 2017 16:25:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,30 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Christmas Roomspiration</title>
+		<link>/2017/12/christmas-roomspiration/</link>
+		<pubDate>Sun, 03 Dec 2017 16:25:43 +0000</pubDate>
+		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
+				<category><![CDATA[Christmas]]></category>
+		<category><![CDATA[Creative]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[aesthetic]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[blogger]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[christmas]]></category>
+		<category><![CDATA[christmas blog]]></category>
+		<category><![CDATA[Christmas blogger]]></category>
+		<category><![CDATA[night in]]></category>
+		<category><![CDATA[pretty]]></category>
+		<category><![CDATA[room]]></category>
+		<category><![CDATA[siana goodwin]]></category>
+		<category><![CDATA[velvetnavy]]></category>
+
+		<guid isPermaLink="false">/?p=555</guid>
+		<description><![CDATA[Hello and welcome to my &#8220;Christmas Roomspiration&#8221; post. Asked to see my room with all of my Christmas decorations as inspiration for her own. So, I thought I&#8217;d do a blog post on it! Thanks to Lydia for the request, she has a great baking instagram account Lydia&#8217;s Bakes! If i&#8217;m honest, I just couldn&#8217;t&#8230; <a href="/2017/12/christmas-roomspiration/" class="more-link">Continue reading <span class="screen-reader-text">Christmas Roomspiration</span></a>]]></description>
+		</item>
+		<item>
 		<title>Christmas Media</title>
 		<link>/2017/12/christmas-media/</link>
 		<pubDate>Sun, 03 Dec 2017 13:10:13 +0000</pubDate>
@@ -155,26 +179,6 @@
 
 		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=392</guid>
 		<description><![CDATA[Hello, this time i have decided to do my recent favourites, be sure to look around velvetnavy after reading this and take a look at my snapshots and social media sites which can be found on my about page. Anyway, enjoy: &#160; Face masks It’s been so nice recently to just lay back and use&#8230; <a href="/2017/04/my-favourites-recently/" class="more-link">Continue reading <span class="screen-reader-text">My favourites recently</span></a>]]></description>
-		</item>
-		<item>
-		<title>Art 101</title>
-		<link>/2017/03/art-101/</link>
-		<pubDate>Fri, 17 Mar 2017 20:05:07 +0000</pubDate>
-		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[Creative]]></category>
-		<category><![CDATA[General]]></category>
-		<category><![CDATA[School]]></category>
-		<category><![CDATA[art]]></category>
-		<category><![CDATA[art 101]]></category>
-		<category><![CDATA[art blog]]></category>
-		<category><![CDATA[blog]]></category>
-		<category><![CDATA[GCSE art]]></category>
-		<category><![CDATA[Girly]]></category>
-		<category><![CDATA[siana goodwin]]></category>
-		<category><![CDATA[velvetnavy]]></category>
-
-		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=329</guid>
-		<description><![CDATA[My absolute favourite thing to do is most likely art so here i will be talking about some tips, art in school, experiences, favourite art types and pieces and much more. I hope you enjoy! Art styles: So there are MANY different types and styles of art like abstract, graphic, realism, cubism, pop art an loads&#8230; <a href="/2017/03/art-101/" class="more-link">Continue reading <span class="screen-reader-text">Art 101</span></a>]]></description>
 		</item>
 	</channel>
 </rss>
