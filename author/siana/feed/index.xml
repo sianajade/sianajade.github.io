@@ -12,7 +12,7 @@
 	<atom:link href="/author/siana/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Sun, 03 Dec 2017 13:31:23 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Dec 2017 13:47:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -30,7 +30,8 @@
 		<link>/2017/12/christmas-media/</link>
 		<pubDate>Sun, 03 Dec 2017 13:10:13 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[General]]></category>
+				<category><![CDATA[Christmas]]></category>
+		<category><![CDATA[General]]></category>
 		<category><![CDATA[blog]]></category>
 		<category><![CDATA[christmas]]></category>
 		<category><![CDATA[christmas blog]]></category>
@@ -49,7 +50,8 @@
 		<link>/2017/11/my-favourite-christmas-diys/</link>
 		<pubDate>Sun, 26 Nov 2017 20:56:28 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[creative]]></category>
+				<category><![CDATA[Christmas]]></category>
+		<category><![CDATA[Creative]]></category>
 		<category><![CDATA[General]]></category>
 		<category><![CDATA[blogger]]></category>
 		<category><![CDATA[christmas]]></category>
@@ -68,7 +70,7 @@
 		<pubDate>Sun, 19 Nov 2017 13:04:34 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
 				<category><![CDATA[General]]></category>
-		<category><![CDATA[lifestyle]]></category>
+		<category><![CDATA[Lifestyle]]></category>
 
 		<guid isPermaLink="false">/?p=520</guid>
 		<description><![CDATA[Hello and welcome to my PMS Panel! Here I will be discussing the ins and outs of hormones, cramps, spots, coping methods, cravings, and tips and tricks. I hope you take something from this and that it helps or comforts you in some way. Emotions: We all know that emotions, mood swings, and irritable feelings&#8230; <a href="/2017/11/pms-panel/" class="more-link">Continue reading <span class="screen-reader-text">PMS Panel</span></a>]]></description>
@@ -79,7 +81,7 @@
 		<pubDate>Sun, 12 Nov 2017 18:00:10 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
 				<category><![CDATA[General]]></category>
-		<category><![CDATA[lifestyle]]></category>
+		<category><![CDATA[Lifestyle]]></category>
 
 		<guid isPermaLink="false">/?p=486</guid>
 		<description><![CDATA[Hello everyone, I have decided to try a new &#8216;series&#8217; here on velvetnavy called &#8220;Brain Tour&#8221; in which i go through things on my mind, current feelings, ten things to be happy about, and current cravings. I hope you enjoy this new post and let me know in the comments what you think and what&#8230; <a href="/2017/11/brain-tour/" class="more-link">Continue reading <span class="screen-reader-text">Brain Tour</span></a>]]></description>
@@ -90,7 +92,7 @@
 		<pubDate>Mon, 06 Nov 2017 17:43:02 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
 				<category><![CDATA[General]]></category>
-		<category><![CDATA[lifestyle]]></category>
+		<category><![CDATA[Lifestyle]]></category>
 
 		<guid isPermaLink="false">/?p=470</guid>
 		<description><![CDATA[Mindfulness is a brilliant way to wind down and remind yourself of the little things by bringing everything else into perspective. It is perfect for stress relief and a great positivity boost. It is often used as a therapeutic technique especially for people with anxiety. I am fairly new to actioning the concept of mindfulness&#8230; <a href="/2017/11/mindfulness/" class="more-link">Continue reading <span class="screen-reader-text">Mindfulness</span></a>]]></description>
@@ -110,9 +112,9 @@
 		<link>/2017/09/the-little-things-that-bring-me-happiness/</link>
 		<pubDate>Mon, 18 Sep 2017 15:25:08 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[beauty]]></category>
+				<category><![CDATA[Beauty]]></category>
 		<category><![CDATA[General]]></category>
-		<category><![CDATA[lifestyle]]></category>
+		<category><![CDATA[Lifestyle]]></category>
 
 		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=421</guid>
 		<description><![CDATA[Hello again! Since i was MIA for quite a while between my previous post and the one before that, i though i&#8217;d do another post now to make up for it. So i am making a list of all the things that are making me happy right now, it&#8217;s a little bit like the &#8216;my favourites&#8230; <a href="/2017/09/the-little-things-that-bring-me-happiness/" class="more-link">Continue reading <span class="screen-reader-text">The little things that bring me happiness</span></a>]]></description>
@@ -122,7 +124,7 @@
 		<link>/2017/09/sianas-food-book/</link>
 		<pubDate>Mon, 04 Sep 2017 12:19:40 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[creative]]></category>
+				<category><![CDATA[Creative]]></category>
 		<category><![CDATA[General]]></category>
 		<category><![CDATA[blog]]></category>
 		<category><![CDATA[food]]></category>
@@ -141,9 +143,9 @@
 		<link>/2017/04/my-favourites-recently/</link>
 		<pubDate>Sun, 23 Apr 2017 15:56:22 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[beauty]]></category>
+				<category><![CDATA[Beauty]]></category>
 		<category><![CDATA[General]]></category>
-		<category><![CDATA[lifestyle]]></category>
+		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[blog]]></category>
 		<category><![CDATA[favourites]]></category>
 		<category><![CDATA[girls]]></category>
@@ -159,8 +161,8 @@
 		<link>/2017/04/makeup/</link>
 		<pubDate>Sat, 01 Apr 2017 17:18:00 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[beauty]]></category>
-		<category><![CDATA[creative]]></category>
+				<category><![CDATA[Beauty]]></category>
+		<category><![CDATA[Creative]]></category>
 		<category><![CDATA[blog]]></category>
 		<category><![CDATA[creative makeup]]></category>
 		<category><![CDATA[feminine]]></category>

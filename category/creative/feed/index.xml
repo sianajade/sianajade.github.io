@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>creative &#8211; Velvet Navy</title>
+	<title>Creative &#8211; Velvet Navy</title>
 	<atom:link href="/category/creative/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Sun, 03 Dec 2017 13:31:23 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Dec 2017 13:47:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,7 @@
 
 <image>
 	<url>/wp-content/uploads/2016/04/cropped-photo-1460750860062-82a52139a0d6-1-1-32x32.jpeg</url>
-	<title>creative &#8211; Velvet Navy</title>
+	<title>Creative &#8211; Velvet Navy</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
@@ -30,7 +30,8 @@
 		<link>/2017/11/my-favourite-christmas-diys/</link>
 		<pubDate>Sun, 26 Nov 2017 20:56:28 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[creative]]></category>
+				<category><![CDATA[Christmas]]></category>
+		<category><![CDATA[Creative]]></category>
 		<category><![CDATA[General]]></category>
 		<category><![CDATA[blogger]]></category>
 		<category><![CDATA[christmas]]></category>
@@ -48,7 +49,7 @@
 		<link>/2017/09/sianas-food-book/</link>
 		<pubDate>Mon, 04 Sep 2017 12:19:40 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[creative]]></category>
+				<category><![CDATA[Creative]]></category>
 		<category><![CDATA[General]]></category>
 		<category><![CDATA[blog]]></category>
 		<category><![CDATA[food]]></category>
@@ -67,8 +68,8 @@
 		<link>/2017/04/makeup/</link>
 		<pubDate>Sat, 01 Apr 2017 17:18:00 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[beauty]]></category>
-		<category><![CDATA[creative]]></category>
+				<category><![CDATA[Beauty]]></category>
+		<category><![CDATA[Creative]]></category>
 		<category><![CDATA[blog]]></category>
 		<category><![CDATA[creative makeup]]></category>
 		<category><![CDATA[feminine]]></category>
@@ -87,9 +88,9 @@
 		<link>/2017/03/art-101/</link>
 		<pubDate>Fri, 17 Mar 2017 20:05:07 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[creative]]></category>
+				<category><![CDATA[Creative]]></category>
 		<category><![CDATA[General]]></category>
-		<category><![CDATA[school]]></category>
+		<category><![CDATA[School]]></category>
 		<category><![CDATA[art]]></category>
 		<category><![CDATA[art 101]]></category>
 		<category><![CDATA[art blog]]></category>
@@ -107,9 +108,9 @@
 		<link>/2016/09/autumn-room/</link>
 		<pubDate>Tue, 20 Sep 2016 16:53:22 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[creative]]></category>
+				<category><![CDATA[Creative]]></category>
 		<category><![CDATA[General]]></category>
-		<category><![CDATA[lifestyle]]></category>
+		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[aesthetic]]></category>
 		<category><![CDATA[art]]></category>
 		<category><![CDATA[autumn]]></category>
@@ -134,7 +135,7 @@
 		<link>/2016/04/scarlett-and-elora-short-stories/</link>
 		<pubDate>Mon, 25 Apr 2016 20:14:41 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[creative]]></category>
+				<category><![CDATA[Creative]]></category>
 		<category><![CDATA[General]]></category>
 		<category><![CDATA[aesthetic]]></category>
 		<category><![CDATA[art]]></category>
@@ -158,9 +159,9 @@
 		<link>/2016/04/my-baby-name-book-2/</link>
 		<pubDate>Wed, 13 Apr 2016 19:34:38 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[creative]]></category>
+				<category><![CDATA[Creative]]></category>
 		<category><![CDATA[General]]></category>
-		<category><![CDATA[lifestyle]]></category>
+		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[aesthetic]]></category>
 		<category><![CDATA[art]]></category>
 		<category><![CDATA[blog]]></category>
@@ -182,7 +183,7 @@
 		<link>/2016/04/cherry-wine-words-music-by-hozier-art-by-siana-jade/</link>
 		<pubDate>Sun, 03 Apr 2016 15:49:15 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[creative]]></category>
+				<category><![CDATA[Creative]]></category>
 		<category><![CDATA[General]]></category>
 		<category><![CDATA[hozier fan art]]></category>
 

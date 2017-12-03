@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>christmas &#8211; Velvet Navy</title>
-	<atom:link href="/tag/christmas/feed/" rel="self" type="application/rss+xml" />
+	<title>Christmas &#8211; Velvet Navy</title>
+	<atom:link href="/category/christmas/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
 	<lastBuildDate>Sun, 03 Dec 2017 13:47:46 +0000</lastBuildDate>
@@ -20,7 +20,7 @@
 
 <image>
 	<url>/wp-content/uploads/2016/04/cropped-photo-1460750860062-82a52139a0d6-1-1-32x32.jpeg</url>
-	<title>christmas &#8211; Velvet Navy</title>
+	<title>Christmas &#8211; Velvet Navy</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>

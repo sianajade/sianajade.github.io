@@ -12,7 +12,7 @@
 	<atom:link href="/tag/velvetnavy-uk/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Sun, 03 Dec 2017 13:31:23 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Dec 2017 13:47:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -30,7 +30,8 @@
 		<link>/2017/12/christmas-media/</link>
 		<pubDate>Sun, 03 Dec 2017 13:10:13 +0000</pubDate>
 		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[General]]></category>
+				<category><![CDATA[Christmas]]></category>
+		<category><![CDATA[General]]></category>
 		<category><![CDATA[blog]]></category>
 		<category><![CDATA[christmas]]></category>
 		<category><![CDATA[christmas blog]]></category>
