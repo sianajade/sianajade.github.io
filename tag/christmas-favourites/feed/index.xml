@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>christmas favourites &#8211; Velvet Navy</title>
+	<atom:link href="/tag/christmas-favourites/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Relax in a world of velvet navy.</description>
+	<lastBuildDate>Sun, 03 Dec 2017 13:31:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-photo-1460750860062-82a52139a0d6-1-1-32x32.jpeg</url>
+	<title>christmas favourites &#8211; Velvet Navy</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>My Favourite Christmas DIYs</title>
+		<link>/2017/11/my-favourite-christmas-diys/</link>
+		<pubDate>Sun, 26 Nov 2017 20:56:28 +0000</pubDate>
+		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
+				<category><![CDATA[creative]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[blogger]]></category>
+		<category><![CDATA[christmas]]></category>
+		<category><![CDATA[christmas blog]]></category>
+		<category><![CDATA[Christmas blogger]]></category>
+		<category><![CDATA[christmas DIY]]></category>
+		<category><![CDATA[christmas favourites]]></category>
+		<category><![CDATA[velvetnavy]]></category>
+
+		<guid isPermaLink="false">/?p=529</guid>
+		<description><![CDATA[Hello and welcome to my first christmas post of the year! This is all about some of my favourite Christmas DIYs (I absolutely love them and hope you do too). It&#8217;s coming close to the time of year when everything gets festive and cosy and all round lovely (I&#8217;m currently singing and boogying along to&#8230; <a href="/2017/11/my-favourite-christmas-diys/" class="more-link">Continue reading <span class="screen-reader-text">My Favourite Christmas DIYs</span></a>]]></description>
+		</item>
+	</channel>
+</rss>
