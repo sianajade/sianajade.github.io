@@ -12,7 +12,7 @@
 	<atom:link href="/category/lifestyle/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Sat, 09 Dec 2017 17:44:21 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 13 Dec 2017 03:30:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,33 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Winter Essentials</title>
+		<link>/2017/12/winter-essentials/</link>
+		<pubDate>Wed, 13 Dec 2017 03:30:13 +0000</pubDate>
+		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
+				<category><![CDATA[Christmas]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[blogger]]></category>
+		<category><![CDATA[blogger uk]]></category>
+		<category><![CDATA[christmas]]></category>
+		<category><![CDATA[christmas blog]]></category>
+		<category><![CDATA[christmas essentials]]></category>
+		<category><![CDATA[essentials]]></category>
+		<category><![CDATA[Girly]]></category>
+		<category><![CDATA[velvet navy]]></category>
+		<category><![CDATA[velvetnavy]]></category>
+		<category><![CDATA[velvetnavy Siana]]></category>
+		<category><![CDATA[Velvetnavy.uk]]></category>
+		<category><![CDATA[winter]]></category>
+		<category><![CDATA[winter blog]]></category>
+		<category><![CDATA[winter blog post]]></category>
+		<category><![CDATA[winter essentials]]></category>
+
+		<guid isPermaLink="false">/?p=587</guid>
+		<description><![CDATA[Winter essentials Hello and welcome to my Winter essentials blog post! I’m avoiding the usuals such as candles and blankets which I have talked about in previous blog posts like &#8220;the little things that bring me hapiness&#8221;. So here we are, I hope you enjoy. Lip balm lip balm is an absolute MUST for winter.&#8230; <a href="/2017/12/winter-essentials/" class="more-link">Continue reading <span class="screen-reader-text">Winter Essentials</span></a>]]></description>
+		</item>
+		<item>
 		<title>PMS Panel</title>
 		<link>/2017/11/pms-panel/</link>
 		<pubDate>Sun, 19 Nov 2017 13:04:34 +0000</pubDate>
@@ -188,31 +215,6 @@
 
 		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=149</guid>
 		<description><![CDATA[don&#8217;t stress yourself over having a perfect summer but do make sure you enjoy it! take as many opportunities as you can to have fun time and make good memories. here are a few things i did in the summer holidays: first of all i went to turkey with my family which was an incredible&#8230; <a href="/2016/08/the-perfect-summer/" class="more-link">Continue reading <span class="screen-reader-text">The perfect summer</span></a>]]></description>
-		</item>
-		<item>
-		<title>tips to stay organised</title>
-		<link>/2016/06/tips-to-stay-organised/</link>
-		<pubDate>Tue, 21 Jun 2016 18:15:40 +0000</pubDate>
-		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[General]]></category>
-		<category><![CDATA[Lifestyle]]></category>
-		<category><![CDATA[School]]></category>
-		<category><![CDATA[aesthetic]]></category>
-		<category><![CDATA[art]]></category>
-		<category><![CDATA[blog]]></category>
-		<category><![CDATA[blogger]]></category>
-		<category><![CDATA[blogs]]></category>
-		<category><![CDATA[feminine]]></category>
-		<category><![CDATA[floral]]></category>
-		<category><![CDATA[girl]]></category>
-		<category><![CDATA[Girly]]></category>
-		<category><![CDATA[organisation]]></category>
-		<category><![CDATA[photography]]></category>
-		<category><![CDATA[pretty]]></category>
-		<category><![CDATA[tips]]></category>
-
-		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=133</guid>
-		<description><![CDATA[Tips to stay organised: If you have a lack of organisational skills or just need more order to your life, this one&#8217;s for you. Enjoy! &#160; Keep a personal diary, one thing that makes me stressed out is holding in all my feelings especially after a bad day, it makes me feel very unorganised and&#8230; <a href="/2016/06/tips-to-stay-organised/" class="more-link">Continue reading <span class="screen-reader-text">tips to stay organised</span></a>]]></description>
 		</item>
 	</channel>
 </rss>

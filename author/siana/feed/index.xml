@@ -12,7 +12,7 @@
 	<atom:link href="/author/siana/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Sat, 09 Dec 2017 17:44:21 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 13 Dec 2017 03:30:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,33 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Winter Essentials</title>
+		<link>/2017/12/winter-essentials/</link>
+		<pubDate>Wed, 13 Dec 2017 03:30:13 +0000</pubDate>
+		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
+				<category><![CDATA[Christmas]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[blogger]]></category>
+		<category><![CDATA[blogger uk]]></category>
+		<category><![CDATA[christmas]]></category>
+		<category><![CDATA[christmas blog]]></category>
+		<category><![CDATA[christmas essentials]]></category>
+		<category><![CDATA[essentials]]></category>
+		<category><![CDATA[Girly]]></category>
+		<category><![CDATA[velvet navy]]></category>
+		<category><![CDATA[velvetnavy]]></category>
+		<category><![CDATA[velvetnavy Siana]]></category>
+		<category><![CDATA[Velvetnavy.uk]]></category>
+		<category><![CDATA[winter]]></category>
+		<category><![CDATA[winter blog]]></category>
+		<category><![CDATA[winter blog post]]></category>
+		<category><![CDATA[winter essentials]]></category>
+
+		<guid isPermaLink="false">/?p=587</guid>
+		<description><![CDATA[Winter essentials Hello and welcome to my Winter essentials blog post! I’m avoiding the usuals such as candles and blankets which I have talked about in previous blog posts like &#8220;the little things that bring me hapiness&#8221;. So here we are, I hope you enjoy. Lip balm lip balm is an absolute MUST for winter.&#8230; <a href="/2017/12/winter-essentials/" class="more-link">Continue reading <span class="screen-reader-text">Winter Essentials</span></a>]]></description>
+		</item>
+		<item>
 		<title>Christmas Makeup</title>
 		<link>/2017/12/christmas-makeup/</link>
 		<pubDate>Sat, 09 Dec 2017 17:39:43 +0000</pubDate>
@@ -166,25 +193,6 @@
 
 		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=421</guid>
 		<description><![CDATA[Hello again! Since i was MIA for quite a while between my previous post and the one before that, i though i&#8217;d do another post now to make up for it. So i am making a list of all the things that are making me happy right now, it&#8217;s a little bit like the &#8216;my favourites&#8230; <a href="/2017/09/the-little-things-that-bring-me-happiness/" class="more-link">Continue reading <span class="screen-reader-text">The little things that bring me happiness</span></a>]]></description>
-		</item>
-		<item>
-		<title>Siana&#8217;s food book</title>
-		<link>/2017/09/sianas-food-book/</link>
-		<pubDate>Mon, 04 Sep 2017 12:19:40 +0000</pubDate>
-		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[Creative]]></category>
-		<category><![CDATA[General]]></category>
-		<category><![CDATA[blog]]></category>
-		<category><![CDATA[food]]></category>
-		<category><![CDATA[food blog]]></category>
-		<category><![CDATA[Girly]]></category>
-		<category><![CDATA[siana]]></category>
-		<category><![CDATA[siana goodwin]]></category>
-		<category><![CDATA[snacks]]></category>
-		<category><![CDATA[velvetnavy]]></category>
-
-		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=398</guid>
-		<description><![CDATA[&#160; Hello! I&#8217;m sorry for the lack of a post for a while but as you can expect from a year 10 (now 11), I was nose deep in revision for mocks and songs to learn for concerts etc. and soon after, had a relaxing holiday break. Goodness knows how i&#8217;ll get along next year..&#8230; <a href="/2017/09/sianas-food-book/" class="more-link">Continue reading <span class="screen-reader-text">Siana&#8217;s food book</span></a>]]></description>
 		</item>
 	</channel>
 </rss>
