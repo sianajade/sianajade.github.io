@@ -12,7 +12,7 @@
 	<atom:link href="/category/general/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Wed, 13 Dec 2017 03:30:13 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 17 Dec 2017 15:41:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,31 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Gift Wrapping</title>
+		<link>/2017/12/gift-wrapping/</link>
+		<pubDate>Sun, 17 Dec 2017 12:00:54 +0000</pubDate>
+		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
+				<category><![CDATA[Christmas]]></category>
+		<category><![CDATA[Creative]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[blogger uk]]></category>
+		<category><![CDATA[christmas]]></category>
+		<category><![CDATA[christmas blog]]></category>
+		<category><![CDATA[Christmas blogger]]></category>
+		<category><![CDATA[christmas DIY]]></category>
+		<category><![CDATA[christmas wrapping]]></category>
+		<category><![CDATA[gift wrapping]]></category>
+		<category><![CDATA[presents]]></category>
+		<category><![CDATA[velvet navy]]></category>
+		<category><![CDATA[velvetnavy]]></category>
+		<category><![CDATA[velvetnavy Siana]]></category>
+		<category><![CDATA[Velvetnavy.uk]]></category>
+		<category><![CDATA[wrapping presents]]></category>
+
+		<guid isPermaLink="false">/?p=591</guid>
+		<description><![CDATA[Hello and Welcome to Gift wrapping! I am so excited about this blog post, It may seem silly to some, but wrapping presents is an event worth talking about in my books. I take great pride in my Christmas wrapping and enjoy decorating each present to look a spectacle under the tree. Last year I&#8230; <a href="/2017/12/gift-wrapping/" class="more-link">Continue reading <span class="screen-reader-text">Gift Wrapping</span></a>]]></description>
+		</item>
+		<item>
 		<title>Winter Essentials</title>
 		<link>/2017/12/winter-essentials/</link>
 		<pubDate>Wed, 13 Dec 2017 03:30:13 +0000</pubDate>
@@ -181,18 +206,6 @@
 
 		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=431</guid>
 		<description><![CDATA[It is no secret that i am absolutely in love with autumn. i also thoroughly enjoy (maybe strangely) making lists. Therefore i have collated some of the things that just make it amazing and what you can do to embrace this luscious time! Things i love about autumn: all the gorgeous colours like the oranges,&#8230; <a href="/2017/09/lists-of-autumn/" class="more-link">Continue reading <span class="screen-reader-text">lists of autumn</span></a>]]></description>
-		</item>
-		<item>
-		<title>The little things that bring me happiness</title>
-		<link>/2017/09/the-little-things-that-bring-me-happiness/</link>
-		<pubDate>Mon, 18 Sep 2017 15:25:08 +0000</pubDate>
-		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[Beauty]]></category>
-		<category><![CDATA[General]]></category>
-		<category><![CDATA[Lifestyle]]></category>
-
-		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=421</guid>
-		<description><![CDATA[Hello again! Since i was MIA for quite a while between my previous post and the one before that, i though i&#8217;d do another post now to make up for it. So i am making a list of all the things that are making me happy right now, it&#8217;s a little bit like the &#8216;my favourites&#8230; <a href="/2017/09/the-little-things-that-bring-me-happiness/" class="more-link">Continue reading <span class="screen-reader-text">The little things that bring me happiness</span></a>]]></description>
 		</item>
 	</channel>
 </rss>

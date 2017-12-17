@@ -12,7 +12,7 @@
 	<atom:link href="/tag/velvetnavy/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Wed, 13 Dec 2017 03:30:13 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 17 Dec 2017 15:41:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,31 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Gift Wrapping</title>
+		<link>/2017/12/gift-wrapping/</link>
+		<pubDate>Sun, 17 Dec 2017 12:00:54 +0000</pubDate>
+		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
+				<category><![CDATA[Christmas]]></category>
+		<category><![CDATA[Creative]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[blogger uk]]></category>
+		<category><![CDATA[christmas]]></category>
+		<category><![CDATA[christmas blog]]></category>
+		<category><![CDATA[Christmas blogger]]></category>
+		<category><![CDATA[christmas DIY]]></category>
+		<category><![CDATA[christmas wrapping]]></category>
+		<category><![CDATA[gift wrapping]]></category>
+		<category><![CDATA[presents]]></category>
+		<category><![CDATA[velvet navy]]></category>
+		<category><![CDATA[velvetnavy]]></category>
+		<category><![CDATA[velvetnavy Siana]]></category>
+		<category><![CDATA[Velvetnavy.uk]]></category>
+		<category><![CDATA[wrapping presents]]></category>
+
+		<guid isPermaLink="false">/?p=591</guid>
+		<description><![CDATA[Hello and Welcome to Gift wrapping! I am so excited about this blog post, It may seem silly to some, but wrapping presents is an event worth talking about in my books. I take great pride in my Christmas wrapping and enjoy decorating each present to look a spectacle under the tree. Last year I&#8230; <a href="/2017/12/gift-wrapping/" class="more-link">Continue reading <span class="screen-reader-text">Gift Wrapping</span></a>]]></description>
+		</item>
+		<item>
 		<title>Winter Essentials</title>
 		<link>/2017/12/winter-essentials/</link>
 		<pubDate>Wed, 13 Dec 2017 03:30:13 +0000</pubDate>
@@ -215,24 +240,6 @@
 
 		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=329</guid>
 		<description><![CDATA[My absolute favourite thing to do is most likely art so here i will be talking about some tips, art in school, experiences, favourite art types and pieces and much more. I hope you enjoy! Art styles: So there are MANY different types and styles of art like abstract, graphic, realism, cubism, pop art an loads&#8230; <a href="/2017/03/art-101/" class="more-link">Continue reading <span class="screen-reader-text">Art 101</span></a>]]></description>
-		</item>
-		<item>
-		<title>GCSE formulas and equations</title>
-		<link>/2017/02/gcse-formulas-and-equations/</link>
-		<pubDate>Mon, 20 Feb 2017 19:03:38 +0000</pubDate>
-		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[School]]></category>
-		<category><![CDATA[AQA]]></category>
-		<category><![CDATA[equations]]></category>
-		<category><![CDATA[formulas]]></category>
-		<category><![CDATA[GCSE]]></category>
-		<category><![CDATA[maths]]></category>
-		<category><![CDATA[physics]]></category>
-		<category><![CDATA[siana goodwin]]></category>
-		<category><![CDATA[velvetnavy]]></category>
-
-		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=315</guid>
-		<description><![CDATA[Since the government has decided to change the exam board, resulting in us students being forced to memorise every equation and formula for science and maths, I decided to give my younger readers and myself a head-start by laying out all (i think) of the equations and formulas needed for you in GCSEs. physics: W&#8230; <a href="/2017/02/gcse-formulas-and-equations/" class="more-link">Continue reading <span class="screen-reader-text">GCSE formulas and equations</span></a>]]></description>
 		</item>
 	</channel>
 </rss>
