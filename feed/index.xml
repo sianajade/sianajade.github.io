@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Sun, 17 Dec 2017 15:41:43 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 20 Dec 2017 18:34:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,31 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Christmas pamper routine</title>
+		<link>/2017/12/christmas-pamper-routine/</link>
+		<pubDate>Wed, 20 Dec 2017 18:30:59 +0000</pubDate>
+		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
+				<category><![CDATA[Christmas]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[christmas]]></category>
+		<category><![CDATA[christmas blog]]></category>
+		<category><![CDATA[Christmas blogger]]></category>
+		<category><![CDATA[christmas pamper]]></category>
+		<category><![CDATA[christmas pamper routine]]></category>
+		<category><![CDATA[Love Soph]]></category>
+		<category><![CDATA[Love Soph Blog]]></category>
+		<category><![CDATA[pamper routine]]></category>
+		<category><![CDATA[siana goodwin]]></category>
+		<category><![CDATA[velvet navy]]></category>
+		<category><![CDATA[velvetnavy]]></category>
+		<category><![CDATA[velvetnavy Siana]]></category>
+		<category><![CDATA[Velvetnavy.uk]]></category>
+
+		<guid isPermaLink="false">/?p=595</guid>
+		<description><![CDATA[Hello and welcome to &#8220;Christmas pamper routine&#8221;, my first collab ever!!! I am buzzing to be doing a collab with the one and only Sophie who runs the blog Love, Soph. Definitely check her out after reading this if you haven&#8217;t already, you will not regret it! This post is going up on the day&#8230; <a href="/2017/12/christmas-pamper-routine/" class="more-link">Continue reading <span class="screen-reader-text">Christmas pamper routine</span></a>]]></description>
+		</item>
+		<item>
 		<title>Gift Wrapping</title>
 		<link>/2017/12/gift-wrapping/</link>
 		<pubDate>Sun, 17 Dec 2017 12:00:54 +0000</pubDate>
@@ -196,16 +221,6 @@
 
 		<guid isPermaLink="false">/?p=470</guid>
 		<description><![CDATA[Mindfulness is a brilliant way to wind down and remind yourself of the little things by bringing everything else into perspective. It is perfect for stress relief and a great positivity boost. It is often used as a therapeutic technique especially for people with anxiety. I am fairly new to actioning the concept of mindfulness&#8230; <a href="/2017/11/mindfulness/" class="more-link">Continue reading <span class="screen-reader-text">Mindfulness</span></a>]]></description>
-		</item>
-		<item>
-		<title>lists of autumn</title>
-		<link>/2017/09/lists-of-autumn/</link>
-		<pubDate>Tue, 26 Sep 2017 13:02:29 +0000</pubDate>
-		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[General]]></category>
-
-		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=431</guid>
-		<description><![CDATA[It is no secret that i am absolutely in love with autumn. i also thoroughly enjoy (maybe strangely) making lists. Therefore i have collated some of the things that just make it amazing and what you can do to embrace this luscious time! Things i love about autumn: all the gorgeous colours like the oranges,&#8230; <a href="/2017/09/lists-of-autumn/" class="more-link">Continue reading <span class="screen-reader-text">lists of autumn</span></a>]]></description>
 		</item>
 	</channel>
 </rss>
