@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Sun, 24 Dec 2017 12:00:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 26 Dec 2017 13:36:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,30 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>What I got for Christmas 2017</title>
+		<link>/2017/12/what-i-got-for-christmas-2017/</link>
+		<pubDate>Tue, 26 Dec 2017 13:36:59 +0000</pubDate>
+		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
+				<category><![CDATA[Christmas]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[christmas]]></category>
+		<category><![CDATA[Christmas day]]></category>
+		<category><![CDATA[morphe]]></category>
+		<category><![CDATA[presents]]></category>
+		<category><![CDATA[Rose and Rosie]]></category>
+		<category><![CDATA[siana]]></category>
+		<category><![CDATA[siana goodwin]]></category>
+		<category><![CDATA[Siana Jade]]></category>
+		<category><![CDATA[velvet navy]]></category>
+		<category><![CDATA[velvetnavy]]></category>
+		<category><![CDATA[velvetnavy Siana]]></category>
+		<category><![CDATA[Velvetnavy.uk]]></category>
+		<category><![CDATA[What I got for Christmas]]></category>
+
+		<guid isPermaLink="false">/?p=628</guid>
+		<description><![CDATA[Hello and Welcome to What I got for Christmas 2017! Now before we get into  anything I would like to throw in a DISCLAIMER. I am doing this blog post because I enjoy reading or listening to what other people got for Christmas and how they enjoy it and I also love sharing about the&#8230; <a href="/2017/12/what-i-got-for-christmas-2017/" class="more-link">Continue reading <span class="screen-reader-text">What I got for Christmas 2017</span></a>]]></description>
+		</item>
+		<item>
 		<title>Christmas Eve Special</title>
 		<link>/2017/12/christmas-eve-special/</link>
 		<pubDate>Sun, 24 Dec 2017 12:00:22 +0000</pubDate>
@@ -220,17 +244,6 @@
 
 		<guid isPermaLink="false">/?p=520</guid>
 		<description><![CDATA[Hello and welcome to my PMS Panel! Here I will be discussing the ins and outs of hormones, cramps, spots, coping methods, cravings, and tips and tricks. I hope you take something from this and that it helps or comforts you in some way. Emotions: We all know that emotions, mood swings, and irritable feelings&#8230; <a href="/2017/11/pms-panel/" class="more-link">Continue reading <span class="screen-reader-text">PMS Panel</span></a>]]></description>
-		</item>
-		<item>
-		<title>Brain Tour</title>
-		<link>/2017/11/brain-tour/</link>
-		<pubDate>Sun, 12 Nov 2017 18:00:10 +0000</pubDate>
-		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[General]]></category>
-		<category><![CDATA[Lifestyle]]></category>
-
-		<guid isPermaLink="false">/?p=486</guid>
-		<description><![CDATA[Hello everyone, I have decided to try a new &#8216;series&#8217; here on velvetnavy called &#8220;Brain Tour&#8221; in which i go through things on my mind, current feelings, ten things to be happy about, and current cravings. I hope you enjoy this new post and let me know in the comments what you think and what&#8230; <a href="/2017/11/brain-tour/" class="more-link">Continue reading <span class="screen-reader-text">Brain Tour</span></a>]]></description>
 		</item>
 	</channel>
 </rss>

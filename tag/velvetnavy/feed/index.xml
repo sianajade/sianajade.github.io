@@ -12,7 +12,7 @@
 	<atom:link href="/tag/velvetnavy/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Sun, 24 Dec 2017 12:00:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 26 Dec 2017 13:36:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,30 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>What I got for Christmas 2017</title>
+		<link>/2017/12/what-i-got-for-christmas-2017/</link>
+		<pubDate>Tue, 26 Dec 2017 13:36:59 +0000</pubDate>
+		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
+				<category><![CDATA[Christmas]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[christmas]]></category>
+		<category><![CDATA[Christmas day]]></category>
+		<category><![CDATA[morphe]]></category>
+		<category><![CDATA[presents]]></category>
+		<category><![CDATA[Rose and Rosie]]></category>
+		<category><![CDATA[siana]]></category>
+		<category><![CDATA[siana goodwin]]></category>
+		<category><![CDATA[Siana Jade]]></category>
+		<category><![CDATA[velvet navy]]></category>
+		<category><![CDATA[velvetnavy]]></category>
+		<category><![CDATA[velvetnavy Siana]]></category>
+		<category><![CDATA[Velvetnavy.uk]]></category>
+		<category><![CDATA[What I got for Christmas]]></category>
+
+		<guid isPermaLink="false">/?p=628</guid>
+		<description><![CDATA[Hello and Welcome to What I got for Christmas 2017! Now before we get into  anything I would like to throw in a DISCLAIMER. I am doing this blog post because I enjoy reading or listening to what other people got for Christmas and how they enjoy it and I also love sharing about the&#8230; <a href="/2017/12/what-i-got-for-christmas-2017/" class="more-link">Continue reading <span class="screen-reader-text">What I got for Christmas 2017</span></a>]]></description>
+		</item>
+		<item>
 		<title>Christmas Eve Special</title>
 		<link>/2017/12/christmas-eve-special/</link>
 		<pubDate>Sun, 24 Dec 2017 12:00:22 +0000</pubDate>
@@ -228,24 +252,6 @@
 
 		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=398</guid>
 		<description><![CDATA[&#160; Hello! I&#8217;m sorry for the lack of a post for a while but as you can expect from a year 10 (now 11), I was nose deep in revision for mocks and songs to learn for concerts etc. and soon after, had a relaxing holiday break. Goodness knows how i&#8217;ll get along next year..&#8230; <a href="/2017/09/sianas-food-book/" class="more-link">Continue reading <span class="screen-reader-text">Siana&#8217;s food book</span></a>]]></description>
-		</item>
-		<item>
-		<title>My favourites recently</title>
-		<link>/2017/04/my-favourites-recently/</link>
-		<pubDate>Sun, 23 Apr 2017 15:56:22 +0000</pubDate>
-		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[Beauty]]></category>
-		<category><![CDATA[General]]></category>
-		<category><![CDATA[Lifestyle]]></category>
-		<category><![CDATA[blog]]></category>
-		<category><![CDATA[favourites]]></category>
-		<category><![CDATA[girls]]></category>
-		<category><![CDATA[girly blog]]></category>
-		<category><![CDATA[siana goodwin]]></category>
-		<category><![CDATA[velvetnavy]]></category>
-
-		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=392</guid>
-		<description><![CDATA[Hello, this time i have decided to do my recent favourites, be sure to look around velvetnavy after reading this and take a look at my snapshots and social media sites which can be found on my about page. Anyway, enjoy: &#160; Face masks It’s been so nice recently to just lay back and use&#8230; <a href="/2017/04/my-favourites-recently/" class="more-link">Continue reading <span class="screen-reader-text">My favourites recently</span></a>]]></description>
 		</item>
 	</channel>
 </rss>
