@@ -12,7 +12,7 @@
 	<atom:link href="/category/general/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Tue, 26 Dec 2017 13:36:59 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 31 Dec 2017 15:03:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,29 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>My New Year&#8217;s resolutions</title>
+		<link>/2017/12/my-new-years-resolutions/</link>
+		<pubDate>Sun, 31 Dec 2017 12:00:08 +0000</pubDate>
+		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[2018]]></category>
+		<category><![CDATA[happy new year]]></category>
+		<category><![CDATA[New Year]]></category>
+		<category><![CDATA[new year's resolutions]]></category>
+		<category><![CDATA[resolutions]]></category>
+		<category><![CDATA[siana]]></category>
+		<category><![CDATA[siana goodwin]]></category>
+		<category><![CDATA[Siana Jade]]></category>
+		<category><![CDATA[velvet navy]]></category>
+		<category><![CDATA[velvetnavy]]></category>
+		<category><![CDATA[velvetnavy Siana]]></category>
+		<category><![CDATA[Velvetnavy.uk]]></category>
+
+		<guid isPermaLink="false">/?p=630</guid>
+		<description><![CDATA[Hello and welcome to my New Year&#8217;s resolutions post! I&#8217;m not great at sticking to my New Year&#8217;s resolutions but I still make a list of them each year. I have actually started trying to get into the habit of a few of these early this time so that I am ready to ease them&#8230; <a href="/2017/12/my-new-years-resolutions/" class="more-link">Continue reading <span class="screen-reader-text">My New Year&#8217;s resolutions</span></a>]]></description>
+		</item>
+		<item>
 		<title>What I got for Christmas 2017</title>
 		<link>/2017/12/what-i-got-for-christmas-2017/</link>
 		<pubDate>Tue, 26 Dec 2017 13:36:59 +0000</pubDate>
@@ -233,17 +256,6 @@
 
 		<guid isPermaLink="false">/?p=529</guid>
 		<description><![CDATA[Hello and welcome to my first christmas post of the year! This is all about some of my favourite Christmas DIYs (I absolutely love them and hope you do too). It&#8217;s coming close to the time of year when everything gets festive and cosy and all round lovely (I&#8217;m currently singing and boogying along to&#8230; <a href="/2017/11/my-favourite-christmas-diys/" class="more-link">Continue reading <span class="screen-reader-text">My Favourite Christmas DIYs</span></a>]]></description>
-		</item>
-		<item>
-		<title>PMS Panel</title>
-		<link>/2017/11/pms-panel/</link>
-		<pubDate>Sun, 19 Nov 2017 13:04:34 +0000</pubDate>
-		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[General]]></category>
-		<category><![CDATA[Lifestyle]]></category>
-
-		<guid isPermaLink="false">/?p=520</guid>
-		<description><![CDATA[Hello and welcome to my PMS Panel! Here I will be discussing the ins and outs of hormones, cramps, spots, coping methods, cravings, and tips and tricks. I hope you take something from this and that it helps or comforts you in some way. Emotions: We all know that emotions, mood swings, and irritable feelings&#8230; <a href="/2017/11/pms-panel/" class="more-link">Continue reading <span class="screen-reader-text">PMS Panel</span></a>]]></description>
 		</item>
 	</channel>
 </rss>

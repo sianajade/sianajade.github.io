@@ -12,7 +12,7 @@
 	<atom:link href="/tag/siana-goodwin/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Tue, 26 Dec 2017 13:36:59 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 31 Dec 2017 15:03:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,29 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>My New Year&#8217;s resolutions</title>
+		<link>/2017/12/my-new-years-resolutions/</link>
+		<pubDate>Sun, 31 Dec 2017 12:00:08 +0000</pubDate>
+		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[2018]]></category>
+		<category><![CDATA[happy new year]]></category>
+		<category><![CDATA[New Year]]></category>
+		<category><![CDATA[new year's resolutions]]></category>
+		<category><![CDATA[resolutions]]></category>
+		<category><![CDATA[siana]]></category>
+		<category><![CDATA[siana goodwin]]></category>
+		<category><![CDATA[Siana Jade]]></category>
+		<category><![CDATA[velvet navy]]></category>
+		<category><![CDATA[velvetnavy]]></category>
+		<category><![CDATA[velvetnavy Siana]]></category>
+		<category><![CDATA[Velvetnavy.uk]]></category>
+
+		<guid isPermaLink="false">/?p=630</guid>
+		<description><![CDATA[Hello and welcome to my New Year&#8217;s resolutions post! I&#8217;m not great at sticking to my New Year&#8217;s resolutions but I still make a list of them each year. I have actually started trying to get into the habit of a few of these early this time so that I am ready to ease them&#8230; <a href="/2017/12/my-new-years-resolutions/" class="more-link">Continue reading <span class="screen-reader-text">My New Year&#8217;s resolutions</span></a>]]></description>
+		</item>
+		<item>
 		<title>What I got for Christmas 2017</title>
 		<link>/2017/12/what-i-got-for-christmas-2017/</link>
 		<pubDate>Tue, 26 Dec 2017 13:36:59 +0000</pubDate>
@@ -218,24 +241,6 @@
 
 		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=329</guid>
 		<description><![CDATA[My absolute favourite thing to do is most likely art so here i will be talking about some tips, art in school, experiences, favourite art types and pieces and much more. I hope you enjoy! Art styles: So there are MANY different types and styles of art like abstract, graphic, realism, cubism, pop art an loads&#8230; <a href="/2017/03/art-101/" class="more-link">Continue reading <span class="screen-reader-text">Art 101</span></a>]]></description>
-		</item>
-		<item>
-		<title>GCSE formulas and equations</title>
-		<link>/2017/02/gcse-formulas-and-equations/</link>
-		<pubDate>Mon, 20 Feb 2017 19:03:38 +0000</pubDate>
-		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[School]]></category>
-		<category><![CDATA[AQA]]></category>
-		<category><![CDATA[equations]]></category>
-		<category><![CDATA[formulas]]></category>
-		<category><![CDATA[GCSE]]></category>
-		<category><![CDATA[maths]]></category>
-		<category><![CDATA[physics]]></category>
-		<category><![CDATA[siana goodwin]]></category>
-		<category><![CDATA[velvetnavy]]></category>
-
-		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=315</guid>
-		<description><![CDATA[Since the government has decided to change the exam board, resulting in us students being forced to memorise every equation and formula for science and maths, I decided to give my younger readers and myself a head-start by laying out all (i think) of the equations and formulas needed for you in GCSEs. physics: W&#8230; <a href="/2017/02/gcse-formulas-and-equations/" class="more-link">Continue reading <span class="screen-reader-text">GCSE formulas and equations</span></a>]]></description>
 		</item>
 	</channel>
 </rss>
