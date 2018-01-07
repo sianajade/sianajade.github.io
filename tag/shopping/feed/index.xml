@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>shopping &#8211; Velvet Navy</title>
+	<atom:link href="/tag/shopping/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Relax in a world of velvet navy.</description>
+	<lastBuildDate>Sun, 07 Jan 2018 14:20:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-photo-1460750860062-82a52139a0d6-1-1-32x32.jpeg</url>
+	<title>shopping &#8211; Velvet Navy</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Post-Christmas sales HAUL</title>
+		<link>/2018/01/post-christmas-sales-haul/</link>
+		<pubDate>Sun, 07 Jan 2018 14:20:44 +0000</pubDate>
+		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[haul]]></category>
+		<category><![CDATA[post-Christmas]]></category>
+		<category><![CDATA[sales]]></category>
+		<category><![CDATA[sales haul]]></category>
+		<category><![CDATA[sales shopping]]></category>
+		<category><![CDATA[shopping]]></category>
+		<category><![CDATA[siana goodwin]]></category>
+		<category><![CDATA[velvet navy]]></category>
+		<category><![CDATA[velvetnavy]]></category>
+		<category><![CDATA[velvetnavy Siana]]></category>
+		<category><![CDATA[Velvetnavy.uk]]></category>
+
+		<guid isPermaLink="false">/?p=637</guid>
+		<description><![CDATA[Hello and welcome to a very exciting post (for me at least). In case you didn&#8217;t know, my present from my parents for Christmas was money to spend on the post-Christmas sales. So I used it for exactly that and I can&#8217;t wait to show you what I bought. &#160; WARNING: There will be descriptions&#8230; <a href="/2018/01/post-christmas-sales-haul/" class="more-link">Continue reading <span class="screen-reader-text">Post-Christmas sales HAUL</span></a>]]></description>
+		</item>
+	</channel>
+</rss>
