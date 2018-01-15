@@ -12,7 +12,7 @@
 	<atom:link href="/tag/siana-goodwin/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Sun, 07 Jan 2018 14:20:44 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 13 Jan 2018 18:11:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>An inside tour of my phone</title>
+		<link>/2018/01/an-inside-tour-of-my-phone/</link>
+		<pubDate>Sat, 13 Jan 2018 18:11:24 +0000</pubDate>
+		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[IPhone]]></category>
+		<category><![CDATA[Phone Tour]]></category>
+		<category><![CDATA[siana]]></category>
+		<category><![CDATA[siana goodwin]]></category>
+		<category><![CDATA[velvet navy]]></category>
+		<category><![CDATA[velvetnavy]]></category>
+		<category><![CDATA[velvetnavy Siana]]></category>
+		<category><![CDATA[Velvetnavy.uk]]></category>
+		<category><![CDATA[Zephani Jong]]></category>
+
+		<guid isPermaLink="false">/?p=634</guid>
+		<description><![CDATA[Hello and Welcome to a post I am quite excited about, I don&#8217;t know about you but I am a very nosy person and find people&#8217;s ways of working very interesting, so a look through someone&#8217;s phone is very intriguing to me. On that note way, i&#8217;m going to show you through mine and talk about&#8230; <a href="/2018/01/an-inside-tour-of-my-phone/" class="more-link">Continue reading <span class="screen-reader-text">An inside tour of my phone</span></a>]]></description>
+		</item>
+		<item>
 		<title>Post-Christmas sales HAUL</title>
 		<link>/2018/01/post-christmas-sales-haul/</link>
 		<pubDate>Sun, 07 Jan 2018 14:20:44 +0000</pubDate>
@@ -223,26 +242,6 @@
 
 		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=392</guid>
 		<description><![CDATA[Hello, this time i have decided to do my recent favourites, be sure to look around velvetnavy after reading this and take a look at my snapshots and social media sites which can be found on my about page. Anyway, enjoy: &#160; Face masks It’s been so nice recently to just lay back and use&#8230; <a href="/2017/04/my-favourites-recently/" class="more-link">Continue reading <span class="screen-reader-text">My favourites recently</span></a>]]></description>
-		</item>
-		<item>
-		<title>Makeup</title>
-		<link>/2017/04/makeup/</link>
-		<pubDate>Sat, 01 Apr 2017 17:18:00 +0000</pubDate>
-		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[Beauty]]></category>
-		<category><![CDATA[Creative]]></category>
-		<category><![CDATA[blog]]></category>
-		<category><![CDATA[creative makeup]]></category>
-		<category><![CDATA[feminine]]></category>
-		<category><![CDATA[Girly]]></category>
-		<category><![CDATA[makeup]]></category>
-		<category><![CDATA[pretty]]></category>
-		<category><![CDATA[siana goodwin]]></category>
-		<category><![CDATA[special effects]]></category>
-		<category><![CDATA[velvetnavy]]></category>
-
-		<guid isPermaLink="false">http://sianas-macbook/~Siana/?p=369</guid>
-		<description><![CDATA[One of my many interests is makeup, i have always loved it from a young age when i would watch my mum do her makeup and try to mimic her, putting on her lipstick or some of my own barbie makeup. However, &#8216;normal&#8217; makeup isn&#8217;t the only thing i have been interested in, fairly recently&#8230; <a href="/2017/04/makeup/" class="more-link">Continue reading <span class="screen-reader-text">Makeup</span></a>]]></description>
 		</item>
 	</channel>
 </rss>

@@ -12,7 +12,7 @@
 	<atom:link href="/author/siana/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Sun, 07 Jan 2018 14:20:44 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 13 Jan 2018 18:11:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>An inside tour of my phone</title>
+		<link>/2018/01/an-inside-tour-of-my-phone/</link>
+		<pubDate>Sat, 13 Jan 2018 18:11:24 +0000</pubDate>
+		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[IPhone]]></category>
+		<category><![CDATA[Phone Tour]]></category>
+		<category><![CDATA[siana]]></category>
+		<category><![CDATA[siana goodwin]]></category>
+		<category><![CDATA[velvet navy]]></category>
+		<category><![CDATA[velvetnavy]]></category>
+		<category><![CDATA[velvetnavy Siana]]></category>
+		<category><![CDATA[Velvetnavy.uk]]></category>
+		<category><![CDATA[Zephani Jong]]></category>
+
+		<guid isPermaLink="false">/?p=634</guid>
+		<description><![CDATA[Hello and Welcome to a post I am quite excited about, I don&#8217;t know about you but I am a very nosy person and find people&#8217;s ways of working very interesting, so a look through someone&#8217;s phone is very intriguing to me. On that note way, i&#8217;m going to show you through mine and talk about&#8230; <a href="/2018/01/an-inside-tour-of-my-phone/" class="more-link">Continue reading <span class="screen-reader-text">An inside tour of my phone</span></a>]]></description>
+		</item>
+		<item>
 		<title>Post-Christmas sales HAUL</title>
 		<link>/2018/01/post-christmas-sales-haul/</link>
 		<pubDate>Sun, 07 Jan 2018 14:20:44 +0000</pubDate>
@@ -239,26 +258,6 @@
 
 		<guid isPermaLink="false">/?p=555</guid>
 		<description><![CDATA[Hello and welcome to my &#8220;Christmas Roomspiration&#8221; post. Asked to see my room with all of my Christmas decorations as inspiration for her own. So, I thought I&#8217;d do a blog post on it! Thanks to Lydia for the request, she has a great baking instagram account Lydia&#8217;s Bakes! If i&#8217;m honest, I just couldn&#8217;t&#8230; <a href="/2017/12/christmas-roomspiration/" class="more-link">Continue reading <span class="screen-reader-text">Christmas Roomspiration</span></a>]]></description>
-		</item>
-		<item>
-		<title>Christmas Media</title>
-		<link>/2017/12/christmas-media/</link>
-		<pubDate>Sun, 03 Dec 2017 13:10:13 +0000</pubDate>
-		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[Christmas]]></category>
-		<category><![CDATA[General]]></category>
-		<category><![CDATA[blog]]></category>
-		<category><![CDATA[christmas]]></category>
-		<category><![CDATA[christmas blog]]></category>
-		<category><![CDATA[Christmas blogger]]></category>
-		<category><![CDATA[Christmas media]]></category>
-		<category><![CDATA[siana]]></category>
-		<category><![CDATA[siana goodwin]]></category>
-		<category><![CDATA[velvetnavy]]></category>
-		<category><![CDATA[Velvetnavy.uk]]></category>
-
-		<guid isPermaLink="false">/?p=538</guid>
-		<description><![CDATA[Hello and welcome to &#8220;Christmas Media&#8221; where I will be talking about and listing my favourite Christmas bits and bobs all across the media each year. It is now officially December!!! So grab a hot drink, candy cane, mince pie, or chocolate and a blanket, and enjoy the Christmas joy of the media. List some&#8230; <a href="/2017/12/christmas-media/" class="more-link">Continue reading <span class="screen-reader-text">Christmas Media</span></a>]]></description>
 		</item>
 	</channel>
 </rss>
