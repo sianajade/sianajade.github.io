@@ -12,7 +12,7 @@
 	<atom:link href="/author/siana/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Relax in a world of velvet navy.</description>
-	<lastBuildDate>Sun, 21 Jan 2018 12:08:29 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Feb 2018 18:07:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,16 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>My top 11 films</title>
+		<link>/2018/02/my-top-11-films/</link>
+		<pubDate>Mon, 05 Feb 2018 18:07:06 +0000</pubDate>
+		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
+				<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">/?p=684</guid>
+		<description><![CDATA[Hello and welcome to another blog post! I’m sorry for the lack of one last Sunday but I’m back again this week so no worries. This week I’m going to be doing a list of my favourite films, which quite frankly (in my situation at least) is just what I need right now after constant&#8230; <a href="/2018/02/my-top-11-films/" class="more-link">Continue reading <span class="screen-reader-text">My top 11 films</span></a>]]></description>
+		</item>
+		<item>
 		<title>Get to know me more</title>
 		<link>/2018/01/get-to-know-me-more/</link>
 		<pubDate>Sat, 20 Jan 2018 17:47:45 +0000</pubDate>
@@ -229,30 +239,6 @@
 
 		<guid isPermaLink="false">/?p=587</guid>
 		<description><![CDATA[Winter essentials Hello and welcome to my Winter essentials blog post! I’m avoiding the usuals such as candles and blankets which I have talked about in previous blog posts like &#8220;the little things that bring me hapiness&#8221;. So here we are, I hope you enjoy. Lip balm lip balm is an absolute MUST for winter.&#8230; <a href="/2017/12/winter-essentials/" class="more-link">Continue reading <span class="screen-reader-text">Winter Essentials</span></a>]]></description>
-		</item>
-		<item>
-		<title>Christmas Makeup</title>
-		<link>/2017/12/christmas-makeup/</link>
-		<pubDate>Sat, 09 Dec 2017 17:39:43 +0000</pubDate>
-		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
-				<category><![CDATA[Beauty]]></category>
-		<category><![CDATA[Christmas]]></category>
-		<category><![CDATA[General]]></category>
-		<category><![CDATA[christmas]]></category>
-		<category><![CDATA[christmas blog]]></category>
-		<category><![CDATA[Christmas blogger]]></category>
-		<category><![CDATA[christmas makeup]]></category>
-		<category><![CDATA[makeup]]></category>
-		<category><![CDATA[makeup tutorial]]></category>
-		<category><![CDATA[siana]]></category>
-		<category><![CDATA[siana goodwin]]></category>
-		<category><![CDATA[velvet navy]]></category>
-		<category><![CDATA[velvetnavy]]></category>
-		<category><![CDATA[velvetnavy Siana]]></category>
-		<category><![CDATA[Velvetnavy.uk]]></category>
-
-		<guid isPermaLink="false">/?p=542</guid>
-		<description><![CDATA[Hello and welcome to Christmas Makeup!Today i&#8217;m going to be walking you through two of my staple makeup looks for Christmas and the products that I use: Gold eyes with red lips, and burgundy eyes with nude lips. It&#8217;s so exciting getting all dressed up for a Christmas meal, shopping day or even Christmas dinner!&#8230; <a href="/2017/12/christmas-makeup/" class="more-link">Continue reading <span class="screen-reader-text">Christmas Makeup</span></a>]]></description>
 		</item>
 	</channel>
 </rss>
