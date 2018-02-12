@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>films &#8211; Velvet Navy</title>
+	<atom:link href="/tag/films/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Relax in a world of velvet navy.</description>
+	<lastBuildDate>Mon, 12 Feb 2018 18:22:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-photo-1460750860062-82a52139a0d6-1-1-32x32.jpeg</url>
+	<title>films &#8211; Velvet Navy</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>My top 11 films</title>
+		<link>/2018/02/my-top-11-films/</link>
+		<pubDate>Mon, 05 Feb 2018 18:07:06 +0000</pubDate>
+		<dc:creator><![CDATA[Siana Jade]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[fave films]]></category>
+		<category><![CDATA[films]]></category>
+		<category><![CDATA[movies]]></category>
+		<category><![CDATA[siana]]></category>
+		<category><![CDATA[siana goodwin]]></category>
+		<category><![CDATA[top films]]></category>
+		<category><![CDATA[velvet navy]]></category>
+		<category><![CDATA[velvetnavy]]></category>
+
+		<guid isPermaLink="false">/?p=684</guid>
+		<description><![CDATA[Hello and welcome to another blog post! I’m sorry for the lack of one last Sunday but I’m back again this week so no worries. This week I’m going to be doing a list of my favourite films, which quite frankly (in my situation at least) is just what I need right now after constant&#8230; <a href="/2018/02/my-top-11-films/" class="more-link">Continue reading <span class="screen-reader-text">My top 11 films</span></a>]]></description>
+		</item>
+	</channel>
+</rss>
